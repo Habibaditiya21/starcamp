@@ -1,0 +1,116 @@
+body {
+  background-color: aliceblue;
+  font-family: "poppins", "sans-serif";
+}
+
+.warna-bg {
+  background: rgba(0, 0, 0, 0.5) url("../assets/img/walpaper.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: overlay;
+
+  /* background-color: blue; */
+}
+
+/* .Judul {
+  font-weight: 500;
+} */
+
+.card {
+  border-width: 3px;
+  border-color: black;
+  border-radius: 10px;
+  /* width: 230px;
+  margin-left: 80px; */
+  /* width: 240px;
+  height: 200px; */
+}
+
+.card-title {
+  font-size: large;
+  /* padding: 10px;
+   margin-left: 50px; */
+}
+
+.kartu {
+  border-radius: 10px;
+}
+
+.card-pesan {
+  gap: 1rem 0rem;
+}
+
+.atur {
+  margin-top: 150px;
+  padding: 70px;
+}
+
+.order {
+  margin: 200px;
+}
+
+.keranjang {
+  margin: 200px;
+}
+
+.about {
+  background: #03a9f4;
+}
+.ftr {
+  background: #03a9f4;
+}
+
+#contact {
+  background: #03a9f4;
+}
+
+.kontak {
+  margin-top: 20px;
+  padding: 100px;
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+.pesanan {
+  margin-top: 70px;
+
+  width: 100%;
+  background: #03a9f4;
+  border-radius: 10px;
+}
+.pesanann {
+  margin-top: 8px;
+  width: 100%;
+  background: #03a9f4;
+  border-radius: 10px;
+}
+
+.order2 {
+  margin-top: 100px;
+  width: 100%;
+  background: #03a9f4;
+  border-radius: 10px;
+}
+
+.pembatalan {
+  margin-top: 100px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.pembayaran {
+  margin-top: 100px;
+  width: 100%;
+  background: #03a9f4;
+  border-radius: 10px;
+}
+.pembayaran2 {
+  margin-top: 100px;
+  width: 100%;
+  background: #03a9f4;
+  border-radius: 10px;
+}
